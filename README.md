@@ -2,6 +2,7 @@
 PySpark Project: Demonstrating Data Analysis and Processing using Apache Spark DataFrames - Part II
 
 The project leverages PySpark, a powerful distributed data processing framework, to efficiently process large-scale data. It provides code snippets and examples for performing common data manipulation and analysis tasks.
+
 The purpose of the code is to demonstrate data manipulation and analysis using Spark DataFrames in PySpark. It performs various operations such as reading a CSV file, calculating counts and aggregations, filtering data, and applying user-defined functions.
 
 ## Advantages of using Spark DataFrames over RDDs (Resilient Distributed Datasets) include:
